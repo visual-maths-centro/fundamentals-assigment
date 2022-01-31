@@ -14,6 +14,9 @@ En caso de tener alguna duda, no olvides enviar un correo.
 
 ## Variables
 
+1. `js` Declara e inicializa todas las variables que consideres que se guardan en un contacto de una agenda telefónica.
+2. `js` **Clon**. En base al [sandbox](https://codesandbox.io/s/clon-2mqek), haz un fork. Añade un clon de fulgencio que use las variables `fulgencio2X` y `fulgencio2Y` para posicionarse.
+
 ## Condicionales
 
 1. `js` **Horizontal y Vertical**. Crea un sketch con dos elipses. Una recorre en horizontal, y cada vez que llega al ancho baja en la pantalla. Y la otra recorre el eje vertical, y cada vez que llega a la altura, se desplaza a la derecha.
