@@ -72,3 +72,37 @@ _Hint: usa_ `let coin = floor(random(2))` _para generar un número aleatorio que
 <img src="piramid.png" alt="piramid" width="250" />
 
 ## Funciones
+
+1. `js` **Vocales**. Crea un sketch que tenga 5 funciones, cada función debe dibujar una vocal. Cada vez que el usuario teclee esa vocal debe aparecer en la pantalla.
+2. Sin ejecutar este código, di que se imprime en la consola cuando se ejecuta el siguiente código. Explica tu respuesta.
+
+```js
+function setup() {
+  console.log( "a");
+  function1();
+  console.log( "b");
+}
+
+function draw() {
+  console.log( "c");
+  function2();
+  console.log( "d");
+  function1();
+  noLoop();
+}
+
+function function1() {
+  console.log( "e");
+  console.log( "f");
+}
+
+function function2() {
+  console.log( "g");
+  function1();
+  console.log( "h");
+}
+```
+3. `js` **Area** Crea una función que calcule el area de un circulo en base a su radio.
+
+Happy coding!
+
