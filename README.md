@@ -2,10 +2,9 @@
 
 ### Instrucciones
 
-Esta tarea se divide en 4 secciones: Variables, Condicionales, Iteraciones y Funciones.
+Esta tarea se divide en 4 secciones: [Variables](#variables), Condicionales, Iteraciones y Funciones.
 
 Cada una de estas secciones tiene ejercicios.
-
 
 ## Variables
 
