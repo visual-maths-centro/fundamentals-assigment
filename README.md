@@ -38,4 +38,49 @@ _Hint: usa una variable entera para guardar en cuál lado estás_.
 
 ## Iteraciones
 
+1. `js` Usa la estrcutura `while` en los siguientes ejercicios:
+   1. **Circles While**. Crea un sketch que dibuje el patrón:
+   
+   ![circles-while](circles-while.png)
+   
+   2. **Diagonals**. Crea un sketch que dibuje patrón:
+
+   ![diagonals](diagonals.png)
+
+2. Indica cuales de los siguientes ejemplos de `for` entran en loop infinito. En caso de ser falso, escribe cuales valores toman las variables.
+
+   1. `for()`
+   2. `for()`
+   3. `for()`
+   4. `for()`
+
+4. `js` Repite los sketches del ejercicio 1.0 pero usando la estructura `for`.
+5. `js` **Curve**. Usa la estructura `for` para hacer el siguiente patrón:
+
+![curve](curve.png)
+
+4. Realiza los siguientes ejercicios usando dos `for` anidados:
+   1. **Crosses**. Haz el siguiente patrón:
+   
+   ![crosses](crosses.png)
+   
+   2. **Mosaic**. Crea un mosaico como el que sigue, de tal forma que en cada cuadro aparezca un dibujo de dos posibles, de forma aleatoria. _Hint: usa_ `int coin = floor(random(2))` _para generar un número aleatorio que sea_ `0` _o_ `1`. 
+   
+   ![random-dfor](random-dfor.png)
+   
+5. Elije alguno de los siguientes ejercicios:
+   1. **Piramid**. Crea el siguiente patrón (se hace con dos `for` anidados:
+   
+   ![piramid](piramid.png)
+   
+   2. **Chessboard**. Crea el siguiente patrón.
+   
+   ![chessboard](chessboard.png)
+   
+   3. **TripleFor**. Crea el siguiente patrón usando tres `for` anidados:
+   
+   ![triple-for](triple-for.png)
+   
+   4. **CustomMosaic**. Haz el ejercicio 5.ii con dos de tus diseños propios.
+
 ## Funciones
