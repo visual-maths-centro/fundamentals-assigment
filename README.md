@@ -48,9 +48,24 @@ _Hint: usa una variable entera para guardar en cuál lado estás_.
    ![diagonals](diagonals.png)
 
 2. Indica cuales de los siguientes ejemplos de `for` entran en loop infinito. En caso de ser falso, escribe cuales valores toman las variables.
-   1. `for()`
-   2. `for()`
-   3. `for()`
-   4. `for()`
+   1. `for(let i = 0; i < 10; i--) {}`
+   2. `for(let x = 1.0; x < 2000; x *= 2.0) {}`
+   3. `for(let x = 10.0; x < 0; x = x / 2.0) {}`
+   4. `for(let y = 20; y > 10; y++) {}`
+
+3. `js` Repite los sketches del Ejercicio 1 pero usando la estructura `for`.
+4. `js` **Curve**. Usa la estructura `for` para hacer el siguiente patrón:
+
+![curve](curve.png)
+
+5. `js` **Mosaic**. Crea un sketch que dibuje un mosaico como el que sigue. Para cada cuadro del mosaico hay dos posibles dibujos. Decide cuál dibujar de forma aleatoria.
+
+_Hint: usa_ `let coin = floor(random(2))` _para generar un número aleatorio que sea_ `0` _o_ `1`.
+   
+![random-dfor](random-dfor.png)
+
+6. `js` **Piramid**. Crea un sketch que dibuje el siguiente patrón:
+   
+![piramid](piramid.png)
 
 ## Funciones
